@@ -1,0 +1,126 @@
+[submodule "vimfiles/bundle/Align"]
+	path = vimfiles/bundle/Align
+	url = https://github.com/vim-scripts/Align.git
+[submodule "vimfiles/bundle/Auto-Pairs"]
+	path = vimfiles/bundle/Auto-Pairs
+	url = https://github.com/vim-scripts/Auto-Pairs.git
+[submodule "vimfiles/bundle/a.vim"]
+	path = vimfiles/bundle/a.vim
+	url = https://github.com/vim-scripts/a.vim.git
+[submodule "vimfiles/bundle/bufexplorer.zip"]
+	path = vimfiles/bundle/bufexplorer.zip
+	url = https://github.com/vim-scripts/bufexplorer.zip.git
+[submodule "vimfiles/bundle/ccvext.vim"]
+	path = vimfiles/bundle/ccvext.vim
+	url = https://github.com/vim-scripts/ccvext.vim.git
+[submodule "vimfiles/bundle/indentLine"]
+	path = vimfiles/bundle/indentLine
+	url = https://github.com/Yggdroot/indentLine.git
+[submodule "vimfiles/bundle/Mark--Karkat"]
+	path = vimfiles/bundle/Mark--Karkat
+	url = https://github.com/vim-scripts/Mark--Karkat.git
+[submodule "vimfiles/bundle/minibufexplorerpp"]
+	path = vimfiles/bundle/minibufexplorerpp
+	url = https://github.com/vim-scripts/minibufexplorerpp.git
+[submodule "vimfiles/bundle/neocomplcache"]
+	path = vimfiles/bundle/neocomplcache
+	url = https://github.com/vim-scripts/neocomplcache.git
+[submodule "vimfiles/bundle/nerdcommenter"]
+	path = vimfiles/bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "vimfiles/bundle/nerdtree"]
+	path = vimfiles/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "vimfiles/bundle/snipMate"]
+	path = vimfiles/bundle/snipMate
+	url = https://github.com/vim-scripts/snipMate.git
+[submodule "vimfiles/bundle/SrcExpl"]
+	path = vimfiles/bundle/SrcExpl
+	url = https://github.com/vim-scripts/SrcExpl.git
+[submodule "vimfiles/bundle/surround.vim"]
+	path = vimfiles/bundle/surround.vim
+	url = https://github.com/vim-scripts/surround.vim.git
+[submodule "vimfiles/bundle/Syntastic"]
+	path = vimfiles/bundle/Syntastic
+	url = https://github.com/vim-scripts/Syntastic.git
+[submodule "vimfiles/bundle/TxtBrowser"]
+	path = vimfiles/bundle/TxtBrowser
+	url = https://github.com/vim-scripts/TxtBrowser.git
+[submodule "vimfiles/bundle/vim-airline"]
+	path = vimfiles/bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "vimfiles/bundle/vim-hugefile"]
+	path = vimfiles/bundle/vim-hugefile
+	url = https://github.com/vimgineers/vim-hugefile.git
+[submodule "vimfiles/bundle/Vundle.vim"]
+	path = vimfiles/bundle/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim.git
+[submodule "vimfiles/bundle/ZoomWin"]
+	path = vimfiles/bundle/ZoomWin
+	url = https://github.com/vim-scripts/ZoomWin.git
+[submodule "vimfiles/bundle/ack.vim"]
+	path = vimfiles/bundle/ack.vim
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "vimfiles/bundle/AuthorInfo"]
+	path = vimfiles/bundle/AuthorInfo
+	url = https://github.com/vim-scripts/AuthorInfo.git
+[submodule "vimfiles/bundle/foldutil.vim"]
+	path = vimfiles/bundle/foldutil.vim
+	url = https://github.com/vim-scripts/foldutil.vim.git
+[submodule "vimfiles/bundle/genutils"]
+	path = vimfiles/bundle/genutils
+	url = https://github.com/vim-scripts/genutils.git
+[submodule "vimfiles/bundle/grep.vim"]
+	path = vimfiles/bundle/grep.vim
+	url = https://github.com/vim-scripts/grep.vim.git
+[submodule "vimfiles/bundle/gsession.vim"]
+	path = vimfiles/bundle/gsession.vim
+	url = https://github.com/c9s/gsession.vim.git
+[submodule "vimfiles/bundle/imaps.vim"]
+	path = vimfiles/bundle/imaps.vim
+	url = https://github.com/vim-scripts/imaps.vim.git
+[submodule "vimfiles/bundle/vim-markology"]
+	path = vimfiles/bundle/vim-markology
+	url = https://github.com/jeetsukumaran/vim-markology.git
+[submodule "vimfiles/bundle/supertab"]
+	path = vimfiles/bundle/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "vimfiles/bundle/vim-powerline"]
+	path = vimfiles/bundle/vim-powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
+[submodule "vimfiles/bundle/vim-solarized-powerline"]
+	path = vimfiles/bundle/vim-solarized-powerline
+	url = https://github.com/stephenmckinney/vim-solarized-powerline.git
+[submodule "vimfiles/bundle/neobundle.vim"]
+	path = vimfiles/bundle/neobundle.vim
+	url = https://github.com/Shougo/neobundle.vim.git
+[submodule "vimfiles/bundle/Wombat"]
+	path = vimfiles/bundle/Wombat
+	url = https://github.com/vim-scripts/Wombat.git
+[submodule "vimfiles/bundle/vim-material-theme"]
+	path = vimfiles/bundle/vim-material-theme
+	url = https://github.com/jdkanani/vim-material-theme.git
+[submodule "vimfiles/bundle/vim-atom-dark"]
+	path = vimfiles/bundle/vim-atom-dark
+	url = https://github.com/gosukiwi/vim-atom-dark.git
+[submodule "vimfiles/bundle/papercolor-theme"]
+	path = vimfiles/bundle/papercolor-theme
+	url = https://github.com/NLKNguyen/papercolor-theme.git
+[submodule "vimfiles/bundle/vim-tomorrow-theme"]
+	path = vimfiles/bundle/vim-tomorrow-theme
+	url = https://github.com/chriskempson/vim-tomorrow-theme.git
+[submodule "shellfiles/oh-my-zsh"]
+	path = shellfiles/oh-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh.git
+[submodule "shellfiles/psh"]
+	path = shellfiles/psh
+	url = https://github.com/gnp/psh.git
+[submodule "tmuxfiles/plugins/tpm"]
+	path = tmuxfiles/plugins/tpm
+	url = http://github.com/tmux-plugins/tpm.git
+[submodule "tmuxfiles/plugins/tmux-sensible"]
+	path = tmuxfiles/plugins/tmux-sensible
+	url = http://github.com/tmux-plugins/tmux-sensible.git
+[submodule "tmuxfiles/plugins/tmux-sidebar"]
+	path = tmuxfiles/plugins/tmux-sidebar
+	url = http://github.com/tmux-plugins/tmux-sidebar.git
