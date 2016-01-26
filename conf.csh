@@ -58,6 +58,7 @@ ln -s $dotdir/shellfiles .shell
 
 rm -fr .cshrc
 ln -s $dotdir/shellfiles/cshrc .cshrc
+touch $dotdir/shellfiles/user.cshrc
 
 rm -fr .pshrc
 ln -s $dotdir/shellfiles/pshrc .pshrc
