@@ -40,9 +40,6 @@
 [submodule "vimfiles/bundle/surround.vim"]
 	path = vimfiles/bundle/surround.vim
 	url = https://github.com/vim-scripts/surround.vim.git
-[submodule "vimfiles/bundle/Syntastic"]
-	path = vimfiles/bundle/Syntastic
-	url = https://github.com/vim-scripts/Syntastic.git
 [submodule "vimfiles/bundle/TxtBrowser"]
 	path = vimfiles/bundle/TxtBrowser
 	url = https://github.com/vim-scripts/TxtBrowser.git
@@ -124,3 +121,9 @@
 [submodule "tmuxfiles/plugins/tmux-sidebar"]
 	path = tmuxfiles/plugins/tmux-sidebar
 	url = http://github.com/tmux-plugins/tmux-sidebar.git
+[submodule "vimfiles/bundle/xterm-color-table.vim"]
+	path = vimfiles/bundle/xterm-color-table.vim
+	url = https://github.com/guns/xterm-color-table.vim
+[submodule "vimfiles/bundle/syntastic"]
+	path = vimfiles/bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git

@@ -153,7 +153,7 @@ NeoBundleFetch 'nerdtree'
 NeoBundleFetch 'snipMate'
 NeoBundleFetch 'SrcExpl'
 NeoBundleFetch 'surround.vim'
-NeoBundleFetch 'Syntastic'
+NeoBundleFetch 'syntastic'
 NeoBundleFetch 'TxtBrowser'
 NeoBundleFetch 'vim-airline'
 NeoBundleFetch 'vim-hugefile'
@@ -176,6 +176,7 @@ NeoBundleFetch 'vim-material-theme'
 NeoBundleFetch 'vim-atom-dark'
 NeoBundleFetch 'papercolor-theme'
 NeoBundleFetch 'vim-tomorrow-theme'
+NeoBundleFetch 'xterm-color-table.vim'
 " Refer to |:NeoBundle-examples|.
 " Note: You don't set neobundle setting in .gvimrc!
 
@@ -659,7 +660,8 @@ let c_cpp_comments = 0
 "  < Syntastic 插件配置 >
 " -----------------------------------------------------------------------------
 " 用于保存文件是查检语法
-
+let syntastic_debug = 0
+let g:syntastic_tcl_nagelfar_args = '~/nagelfar.procs'
 " -----------------------------------------------------------------------------
 "  < Tagbar 插件配置 >
 " -----------------------------------------------------------------------------
